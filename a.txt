@@ -1,2 +1,3 @@
 alterado a primeira linha.
 segunda alteração na segunda linha.
+a linha 3 foi modificado no ramo1.
