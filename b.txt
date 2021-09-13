@@ -1,1 +1,2 @@
 primeira alteração da linha1.
+esta linha foi iniciada no ramo1.
